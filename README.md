@@ -16,15 +16,13 @@ Esta aplicação objetiva desenvolver e publicar um app no Streamlit Cloud.
 ## Como executar o APP
 
 ### Instalar os requirements
-'''  bash
-
+### Instalar os requirements
+```bash
 pip install -r requirements.txt
-
-'''
+```
 
 ### Executar o streamlit
-''' bash
 
+```bash
 streamlit run app.py
-
-''
+```

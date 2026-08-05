@@ -1,8 +1,5 @@
-populacao.csv
-
-
-municipio,pop,renda
-João Pessoa, 800, 1000
-Recife, 2000, 5000
-Natal, 700, 1200
-Maceió,500,800
+id,municipio,populacao,renda
+1,João Pessoa,800,1000
+2,Recife,2000,5000
+3,Natal,700,1200
+4,Maceió,500,800
